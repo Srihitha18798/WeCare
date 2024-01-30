@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "name": "Srihitha Tadiparthi",
+      "password": "tadiparthi",
+      "mobileNumber": "0123456789",
+      "email": "sri@gmail.com",
+      "dateOfBirth": "1999-01-02",
+      "gender": "F",
+      "pincode": "333332",
+      "city": "Hydsefd",
+      "state": "awdfdsef",
+      "country": "Indiaa",
+      "id": 2
+    },
+    {
+      "name": "Srihitha Tadiparthi",
+      "password": "tadiparthi",
+      "mobileNumber": "0123456789",
+      "email": "sri@gmail.com",
+      "dateOfBirth": "1999-01-02",
+      "gender": "F",
+      "pincode": "333332",
+      "city": "Hydsefd",
+      "state": "awdfdsef",
+      "country": "Indiaa",
+      "id": 3
+    },
+    {
+      "name": "Harsha",
+      "password": "tadiparthi",
+      "mobileNumber": "0123456789",
+      "email": "sri@gmail.com",
+      "dateOfBirth": "1956-02-05",
+      "gender": "M",
+      "pincode": "333333",
+      "city": "Hydsefd",
+      "state": "awdfdsef",
+      "country": "Indiaa",
+      "id": 4
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "name": "Srihitha",
+      "password": "tadiparthi",
+      "dateOfBirth": "2000-01-12",
+      "gender": "F",
+      "mobileNumber": "0123467890",
+      "speciality": "Good Human",
+      "id": 2
+    },
+    {
+      "name": "Harsha",
+      "password": "tadiparthi",
+      "dateOfBirth": "1999-12-02",
+      "gender": "M",
+      "mobileNumber": "1234567890",
+      "speciality": "",
+      "id": 3
+    },
+    {
+      "name": "Srihitha Tadiparthi",
+      "password": "tadiparthi",
+      "dateOfBirth": "1999-03-04",
+      "gender": "F",
+      "mobileNumber": "1234567894",
+      "speciality": "",
+      "id": 4
+    },
+    {
+      "name": "Srihitha Tadiparthi",
+      "password": "tadiparthi",
+      "dateOfBirth": "1990-02-04",
+      "gender": "F",
+      "mobileNumber": "1234567890",
+      "speciality": "Super women",
+      "id": 5
+    },
+    {
+      "name": "Anu",
+      "password": "tadiparthi",
+      "dateOfBirth": "1998-02-01",
+      "gender": "F",
+      "mobileNumber": "0123456789",
+      "speciality": "sri@gmail.com",
+      "id": 6
+    }
+  ],
+  "bookings": [
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": 1
+    },
+    {
+      "appointmentDate": "2022-04-14",
+      "slot": "8 AM to 9 AM",
+      "userId": 3,
+      "coachId": 4,
+      "id": 2
+    },
+    {
+      "appointmentDate": "2023-12-01",
+      "slot": "10 AM to 11 AM",
+      "userId": 4,
+      "coachId": 3,
+      "id": 3
+    },
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 3,
+      "coachId": 4,
+      "id": 4
+    },
+    {
+      "appointmentDate": "2023-12-02",
+      "slot": "3 PM to 4 PM",
+      "userId": 4,
+      "coachId": 3,
+      "id": 5
+    },
+    {
+      "appointmentDate": "2023-12-07",
+      "slot": "3 PM to 4 PM",
+      "userId": 4,
+      "coachId": 2,
+      "id": 6
+    },
+    {
+      "appointmentDate": "2020-12-11",
+      "slot": "10 AM to 11 AM",
+      "userId": 4,
+      "coachId": 2,
+      "id": 7
+    },
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": 8
+    },
+    {
+      "appointmentDate": "2023-12-02",
+      "slot": "9 AM to 10 AM",
+      "coachId": 3,
+      "userId": 4,
+      "id": 9
+    },
+    {
+      "appointmentDate": "2023-12-04",
+      "slot": "11 AM to 12 PM",
+      "coachId": 3,
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "appointmentDate": "2023-12-04",
+      "slot": "10 AM to 11 AM",
+      "userId": 4,
+      "coachId": 2,
+      "id": 11
+    }
+  ]
+}
